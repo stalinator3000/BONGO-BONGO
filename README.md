@@ -50,4 +50,4 @@ $$m_t = \beta_1 \cdot m_{t-1} + (1 - \beta_1) \cdot g_t $$
 $$\theta_t = \theta_{t-1} - \frac{\alpha \cdot \hat{v}_t}{\sqrt{\hat{m}_t} + \epsilon}$$
 
 
-Acknowledgement: This session was conducted by @Adityadikonda10 of the SIES GST IEEE commitee.
+Acknowledgement: This session was conducted by [Adityadikonda10] of the SIES GST IEEE commitee.
